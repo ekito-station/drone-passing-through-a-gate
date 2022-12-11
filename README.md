@@ -2,7 +2,7 @@
 This program makes a Tello drone pass through a gate with color markers.
 
 ## How to use
-1. Make a blue gate and put a yellow marker on the upper left, a red marker on the upper right, and a green marker on the lower left.
+1. Make a square blue gate and put a yellow marker on the upper left, a red marker on the upper right, and a green marker on the lower left.
 2. Update filterR.m, filterG.m, filterB.m, and filterY.m using makingFilter.mlx.
 3. Run PassThroughGate.m.
 
